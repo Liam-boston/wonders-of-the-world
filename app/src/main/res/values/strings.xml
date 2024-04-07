@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wonders of the World</string>
+
+    <!-- Strings for the menu on the FloatingActionButton -->
+    <string name="hide_markers">Hide Markers</string>m
+    <string name="show_markers">Show Markers</string>
+</resources>
